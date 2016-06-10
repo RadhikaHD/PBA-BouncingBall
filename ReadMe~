@@ -1,0 +1,14 @@
+Name of the student: Radhika Dhaipule
+Name of the course:
+CPSC 8170 Physically Based Animation
+Name of the professor: Dr. Donald House
+September 10, 2015
+Homework Assignment 1: Follow the bouncing ball
+
+Compilation:
+make
+
+Execution:
+./3dbounce
+
+
